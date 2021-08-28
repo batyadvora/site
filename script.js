@@ -1,2 +1,2 @@
   
-alert("Я JavaScript!");
+alert("Я cvxc!");
