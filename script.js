@@ -1,2 +1,1 @@
-  
-alert("Я cvxc!");
+alert ('hello');
